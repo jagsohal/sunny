@@ -3128,19 +3128,6 @@ body {
 .cid-rsTtJw63Rr .mbr-section-btn {
   color: #7f1933;
 }
-.cid-rsU1CokbZy {
-  background: #ffffff;
-  background: linear-gradient(0deg, #ffffff, #eb342d);
-}
-.cid-rsU1CokbZy .video-block {
-  margin: auto;
-  width: 100% !important;
-}
-@media (max-width: 768px) {
-  .cid-rsU1CokbZy .video-block {
-    width: 100% !important;
-  }
-}
 .cid-rwRtbTViym {
   background: #ffffff;
   padding-top: 120px;
@@ -6063,7 +6050,75 @@ body {
   }
 }
 .cid-rwRdHtczTn {
+  padding-top: 105px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/mbr-1920x1440.jpg");
+}
+.cid-rwRvAINvSz {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/photo-1533511627347-4d1b893e1ad9-2000x1186.jpg");
+  background-color: #2e2e2e;
+}
+@media (max-width: 767px) {
+  .cid-rwRvAINvSz .content {
+    text-align: center;
+  }
+  .cid-rwRvAINvSz .content > div:not(:last-child) {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rwRvAINvSz .media-wrap {
+    margin-bottom: 1rem;
+  }
+}
+.cid-rwRvAINvSz .media-wrap .mbr-iconfont-logo {
+  font-size: 7.5rem;
+  color: #f36;
+}
+.cid-rwRvAINvSz .media-wrap img {
+  height: 6rem;
+}
+@media (max-width: 767px) {
+  .cid-rwRvAINvSz .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-rwRvAINvSz .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #fff;
+  opacity: .05;
+}
+.cid-rwRvAINvSz .footer-lower .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: flex-end;
+  justify-content: flex-end;
+}
+.cid-rwRvAINvSz .footer-lower .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #fff;
+}
+.cid-rwRvAINvSz .footer-lower .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-rwRvAINvSz .footer-lower .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-rwRvAINvSz .footer-lower .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-rwRvAINvSz .footer-lower .social-list {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
 }
